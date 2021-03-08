@@ -1,0 +1,59 @@
+header{
+    background-color:#FF4FC7;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 1px;
+    margin-inline-end: 1px;
+    font-weight: bold;
+
+}
+header h1{
+    color: #800358;
+    font-style: italic;
+    font-size: 5pc;
+   margin-left: 4pc;
+}
+header nav ul{
+    list-style:none;
+    background-color: #802964;
+   color: cornsilk;
+
+}
+header nav ul li {
+    padding-right: 4pc;
+display: inline;}
+    
+a {
+    text-decoration: none ;
+}
+.m{
+    margin: 5cm,5cm,5cm,5cm;
+    width: 40cm;
+    height: 20cm;
+    display: block;
+}
+.a{
+
+color:#460130;
+    font-size: 2pc;
+    
+}
+.d{
+    display:block;
+    width: 50 cm;
+    height: 30cm;
+}
+
+.e
+{
+    margin: 0pc;
+    display: inline;
+    width: 4cm;
+    height:4cm ;
+}
+
+body{
+    background-color:#af2483 ;
+
+}
+
